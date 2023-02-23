@@ -1,6 +1,6 @@
 import { Grid } from '@chakra-ui/react'
 import React from 'react'
-import { BettingData } from '../../../constants/BettingData'
+import { BettingData } from '../../../Constants/'
 import Bettingcard from './Bettingcard'
 
 const BettingCardList = () => {
